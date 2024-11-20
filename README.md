@@ -11,11 +11,11 @@ Program sederhana untuk mengelola data nilai mahasiswa menggunakan Python dengan
 
 **Fitur Tambah**
 
-![](gif/tambah.gif)
+![](tambah.png)
 
 **Fitur Lihat**
 
-![](gif/lihat.gif)
+![](lihat.png)
 
 
 Untuk Fitur lainnya bisa dicoba sendiri
